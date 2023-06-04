@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 -->
 
 ### Who am I:question: 
-<code>git commit -m "🔭 Hello, I'm Nikky Chaudhary. I am currently pursuing my BCA at IIMT University Meerut. Currently, I learning about Python, Azure and DevOps."</code>
+"🔭 Hello, I'm **Nikky Chaudhary**. I am currently pursuing my **BCA** at IIMT University Meerut. Currently, I learning about **Python, Azure and DevOps**."
 
 
