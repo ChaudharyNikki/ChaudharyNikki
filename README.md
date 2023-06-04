@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--### Hi there 👋 -->
+
+<p align="center">
+  <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
+</p>
+ 
+## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >
+<!--
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=arunrathi9 alt=arunrathi9/></p>
+-->
+
+### Who am I:question: 
+<code>git commit -m "🔭 Hello, I'm Nikky Chaudhary. I am currently pursuing my BCA at IIMT University Meerut. Currently, I learning about Python, Azure and DevOps."</code>
+
+
